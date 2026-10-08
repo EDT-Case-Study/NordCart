@@ -1,0 +1,13 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget_eur
+C01,Back to Uni 2024,Instagram,2024-09-01,2024-09-30,22000
+C02,Black Friday 2024,Google Ads,2024-11-22,2024-12-02,48000
+C03,Xmas Gifts 2024,Newsletter,2024-12-03,2024-12-22,6000
+C04,New Year Fitness,Facebook,2025-01-02,2025-01-31,18000
+C05,Spring Home Refresh,Pinterest,2025-03-10,2025-04-10,15000
+C06,Easter Family Deals,Newsletter,2025-04-07,2025-04-21,4500
+C07,Mother's Day,Instagram,2025-04-28,2025-05-11,14000
+C08,Loyalty Points x2,App Push,2025-05-15,2025-06-15,3000
+C09,Summer Mega Sale,TikTok Influencer,2025-06-15,2025-08-31,185000
+C10,Back to Uni 2025,Instagram,2025-09-01,2025-09-30,24000
+C11,Black Friday 2025,Google Ads,2025-11-21,2025-12-01,52000
+C12,Spring Clean 2026,Pinterest,2026-03-09,2026-04-09,16000
