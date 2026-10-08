@@ -1,0 +1,23 @@
+# No packages to install. Python 3 and its built-in sqlite3 module are enough.
+# pip install -r requirements.txt installs nothing and that is expected.
+#
+# Run from this folder:
+#   python3 run_sql.py
+#
+# The script loads every row of the six CSVs in data/, then runs
+# sql/01_cleaning.sql and sql/02_campaign_result.sql. It stops if a table
+# count does not match its CSV.
+#
+# A successful run prints these load counts:
+#   customers: 3157
+#   products: 150
+#   campaigns: 12
+#   orders: 15164
+#   order_items: 29887
+#   support_tickets: 1540
+#
+# The first result table is the budget answer. Check these two rows:
+#   All campaigns | budget 407500.0 | result -293396.66
+#   No campaign   | budget 0.0      | result 1217756.33
+#
+# ANSWER.md is the memo for the Head of Marketing. REPORT.md explains the rules.
